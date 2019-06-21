@@ -4,6 +4,7 @@
 <br>
 <p align="center">
     <a href="https://travis-ci.org/dvcs/gitignore"><img src="https://img.shields.io/travis/dvcs/gitignore.svg?longCache=true&style=flat-square" alt="build status"></a>
+ [![Release](https://img.shields.io/badge/release-1.0.0-brightgreen.svg)](#) [![Updated](https://img.shields.io/badge/date-June%2021%2C%202019-orange.svg)](#)  [![.NETCore](https://img.shields.io/badge/.NETCore-%3E%3D%202.2.0-ff69b4.svg)](#)
 </p>
 
 
