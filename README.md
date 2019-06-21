@@ -58,3 +58,9 @@ Hubs call client-side code by sending messages that contain the name and paramet
 - clone the project
 - open it in visual studio (i have VS2017)
 - build and f5 :)
+
+# Output
+
+
+
+
