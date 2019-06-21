@@ -61,6 +61,5 @@ Hubs call client-side code by sending messages that contain the name and paramet
 
 # Output
 
-
-
+![output](https://user-images.githubusercontent.com/6897950/59918281-de027980-9441-11e9-94fb-ba85c1b28fd4.JPG)
 
